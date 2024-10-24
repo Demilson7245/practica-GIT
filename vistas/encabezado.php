@@ -57,11 +57,11 @@
       <section class="sidebar">
         <div class="user-panel">
           <div class="pull-left image">
-          <img class="img-circle" src="https://previews.123rf.com/images/jpramos/jpramos2209/jpramos220901240/197038334-ilustraci%C3%B3n-de-dibujos-animados-de-astronauta-en-su-nave-espacial-lindo-astronauta-animado.jpg" alt="User Image"> 
-        </div> 
+            <img class="img-circle" src="https://previews.123rf.com/images/jpramos/jpramos2209/jpramos220901240/197038334-ilustraci%C3%B3n-de-dibujos-animados-de-astronauta-en-su-nave-espacial-lindo-astronauta-animado.jpg" alt="User Image">
+          </div>
           <div class="pull-left info">
-            <p>My Proyecto</p> 
-            <p class="designation">Frontend Developer</p> 
+            <p>My Proyecto</p>
+            <p class="designation">Frontend Developer</p>
           </div>
         </div>
         <!-- Sidebar Menu-->
@@ -79,12 +79,13 @@
 
           <li class="treeview"><a href="#"><i class="fa fa-edit"></i><span>Clientes</span><i class="fa fa-angle-right"></i></a>
             <ul class="treeview-menu">
-              <li><a href="form-components.html"><i class="fa fa-circle-o"></i> Listar</a></li>
-              <li><a href="?c=producto&a=FormCrear"><i class="fa fa-circle-o"></i>Crear</a></li>
+              <li><a href="?c=cliente"><i class="fa fa-circle-o"></i>Listar</a></li>
+              <li><a href="?c=cliente&a=FormCrear"><i class="fa fa-circle-o"></i>Crear</a></li>
             </ul>
           </li>
 
-          
+
+
           <li class="treeview"><a href="#"><i class="fa fa-edit"></i><span>Usuario</span><i class="fa fa-angle-right"></i></a>
             <ul class="treeview-menu">
               <li><a href="form-components.html"><i class="fa fa-circle-o"></i> Listar</a></li>
