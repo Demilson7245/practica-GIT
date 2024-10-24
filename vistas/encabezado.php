@@ -86,12 +86,14 @@
 
 
 
-          <li class="treeview"><a href="#"><i class="fa fa-edit"></i><span>Usuario</span><i class="fa fa-angle-right"></i></a>
+          <li class="treeview">
+            <a href="#"><i class="fa fa-edit"></i><span>Médicos</span><i class="fa fa-angle-right"></i></a>
             <ul class="treeview-menu">
-              <li><a href="form-components.html"><i class="fa fa-circle-o"></i> Listar</a></li>
-              <li><a href="?c=producto&a=FormCrear"><i class="fa fa-circle-o"></i>Crear</a></li>
+              <li><a href="?c=medico"><i class="fa fa-circle-o"></i> Listar</a></li>
+              <li><a href="?c=medico&a=FormCrear"><i class="fa fa-circle-o"></i> Crear</a></li>
             </ul>
           </li>
+
 
 
         </ul>
