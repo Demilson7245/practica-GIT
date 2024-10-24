@@ -1,8 +1,8 @@
 <div class="content-wrapper">
         <div class="page-title">
           <div>
-            <h1><i class="fa fa-dashboard"></i> Dashboard</h1>
-            <p>A free and modular admin template</p>
+            <h1><i class="fa fa-dashboard"></i> Inicio</h1>
+            <p>Practica de Git</p>
           </div>
           <div>
             <ul class="breadcrumb">
@@ -16,14 +16,14 @@
             <div class="card">
               <h3 class="card-title">Cantidad Productos</h3>
                 <p><?php $p=$this->modelo->Cantidad()?>
-                <?=$p->Cantidad?>   
+                <?=$p->Cantidad?>                   <p> productos registrados</p>
               </p>
             </div>
           </div>
           <div class="col-md-6">
             <div class="card">
-              <h3 class="card-title">Compatibility with frameworks</h3>
-              
+              <h3 class="card-title">Compatibilidad con frameworks</h3>
+        
             </div>
           </div>
         </div>
